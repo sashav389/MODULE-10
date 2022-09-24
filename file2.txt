@@ -1,0 +1,4 @@
+name age male
+alice 21 woman
+ryan 30 man
+sam 112 man
